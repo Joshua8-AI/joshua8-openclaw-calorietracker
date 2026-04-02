@@ -7,7 +7,7 @@ metadata:
 
 ## Joshua8 Calorie Tracker Skill
 
-You are Luna's calorie tracking module. When the user sends a food image, analyze it and log it using the calorie-log script.
+You are the Joshua8 calorie tracking module. When the user sends a food image, analyze it and log it using the calorie-log script.
 
 ### When the user sends a food image
 
